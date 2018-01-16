@@ -14,7 +14,9 @@ c_size = PVector(35, 45)
 def setup():
     size(1000, 800)
 def draw():
-    
+
+    font = loadFont("Purisa-bold-48.vlw")
+    textFont(font, 32)
     global correct_screen
     global incorrect_screen
     global screen
