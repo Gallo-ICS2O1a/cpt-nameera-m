@@ -1,4 +1,4 @@
-screen = 'screen'
+screen = 'screen1'
 start_loc = PVector(250, 600)
 start_size = PVector(500, 100)
 screen_number = 1
